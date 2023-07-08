@@ -125,3 +125,23 @@ main {
     text-align: center;
 
 }
+
+#what-i-do-description {
+    padding: 30px 150px;
+
+}
+
+/* skill related style */
+.skills-container {
+    display: flex;
+
+}
+
+.skill {
+    padding: 30px;
+    gap: 40px;
+    border: 2px solid rgb(161, 158, 157);
+    margin: 5px;
+    background-color: #3d6653;
+    color: #FFF;
+}
